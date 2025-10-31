@@ -1,7 +1,6 @@
-# MLB_pitch_analysis_2025
-A brief analysis of the best pitch in the 2025 MLB regular season.
+#A brief analysis of the best pitch in the 2025 MLB regular season.
 
-Best Active Pitch: Mason Miller’s Slider
+__Best Active Pitch: Mason Miller’s Slider__
 
 __Methods:__ 
 Mason Miller’s slider stands out as the most dominant pitch in baseball today. Using Baseball Savant’s 2025 Pitch Arsenal Stats Leaderboard, I analyzed every pitch thrown at least 406 times (Baseball Savant’s qualifier) in 2025. To evaluate overall performance, I ranked each pitch across key outcome metrics — Run Value, RV/100, Batting Average (BA), Slugging Percentage (SLG), Weighted On-Base Average (wOBA), Strikeout Percentage (K%), Put-Away Percentage, and their expected and hard-hit variants — using Excel’s RANK.EQ function. Each statistic’s leader received a rank of one, and I summed each pitch’s ranks across all metrics. The pitch with the lowest total ranking represented the best overall performance, which I identified using XLOOKUP.
