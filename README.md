@@ -7,12 +7,12 @@ This data-driven approach suggests Miller’s slider is not only statistically d
 
 ## __Mason Miller’s SL Rankings:__
 - Run Value (18th)
-- RV/100 ***(1st)***
-- Batting Average ***(1st)***
-- Slugging Percentage ***(1st)***
-- Weighted On-Base Average ***(1st)***
+- ***RV/100 (1st)***
+- ***Batting Average (1st)***
+- ***Slugging Percentage (1st)***
+- ***Weighted On-Base Average (1st)***
 - Strikeout Percentage (3rd)
-- Put-Away Percentage ***(1st)***
+- ***Put-Away Percentage (1st)***
 - Expected Batting Average (8th)
 - Expected Slugging Percentage (3rd)
 - Expected Weighted On-Base Average (3rd)
